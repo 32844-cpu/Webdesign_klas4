@@ -9,8 +9,8 @@ Bij deze repository horen:
 
 ## Leerlinggegevens
 
-Naam:  
-Klas:
+Naam:  \cas van der wel
+Klas: nh4d 
 
 ## Aan de slag
 
